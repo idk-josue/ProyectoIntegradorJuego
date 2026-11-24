@@ -64,10 +64,9 @@ En esta sección se presenta la relación entre los diagramas realizados durante
 
 | Diagrama de la Fase 2 | Archivo y líneas | Qué cambió |
 |---|---|---|
-| DF1 – Menú principal | juego.py – Líneas por completar | Se trasladó la lógica del menú principal de RAPTOR a Python. |
-| DF2 – Validación de la jugada | game_logic.py – Líneas por completar | Se implementó la validación de las jugadas, considerando su formato y las reglas del videojuego. |
-| DF3 – Fin de la partida | game_logic.py – Líneas por completar | Se trasladó la lógica para identificar la victoria del Jugador 1, la victoria del Jugador 2, el empate o la continuación de la partida. |
-
+| DF1 – Menú principal | `juego.py` – Líneas 1-17 | Se tradujo el menú principal de RAPTOR a Python, incorporando las opciones del videojuego. |
+| DF2 – Validación de la jugada | `game_logic.py` – Líneas 3-43 aprox. | Se implementó la validación de las casillas, comprobando que el usuario ingrese números del 1 al 9 y que las casillas no estén ocupadas. |
+| DF3 – Fin de la partida | `game_logic.py` – Líneas 45-122 aprox. | Se implementó la identificación de victoria del Jugador 1, victoria del Jugador 2, empate o continuación de la partida. |
 ## 7. Video explicativo
 
 **Enlace del video:** 
