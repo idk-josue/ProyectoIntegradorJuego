@@ -69,7 +69,7 @@ En esta sección se presenta la relación entre los diagramas realizados durante
 | DF3 – Fin de la partida | `game_logic.py` – Líneas 59-123 . | Se implementó la identificación de victoria del Jugador 1, victoria del Jugador 2, empate o continuación de la partida. |
 ## 7. Video explicativo
 
-**Enlace del video:** 
+**Enlace del video:**  https://youtu.be/KHj1LR0kp6A
 
 El video explicativo presenta el funcionamiento del menú principal, la validación de una jugada inválida y la identificación de los resultados de la partida.
 
